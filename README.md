@@ -1,3 +1,3 @@
 # sorting-hat--HOGWARTS
-#this ode is usefull to decide what house u belong
+#this code is usefull to decide what house u belong in hogwarts
 #just trying out python 😁👍
