@@ -1,17 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module2
-# Purpose:
-#
-# Author:      theja
-#
-# Created:     30-07-2023
-# Copyright:   (c) theja 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
-
-
-
 
 print("Welcome to Hogwarts!", end ="  ")
 print("the sorting hat will ask some questions to find a suitable house for u")
@@ -21,7 +7,7 @@ b = int(0)
 c = int(0)
 d = int(0)
 
-print("q1) do u like dawn or dusk\n     1)dawn\n     2)dusk")
+print("Q1) do u like dawn or dusk\n     1)dawn\n     2)dusk")
 q1 = int(input("enter integer 1 or 2:"))
 
 if q1 ==1:
